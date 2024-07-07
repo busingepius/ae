@@ -1,5 +1,4 @@
 #README.md
-.env
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -20,10 +19,10 @@ bin/
 
 ### IntelliJ IDEA ###
 .idea
+.env
 *.iws
 *.iml
 *.ipr
-.env
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
