@@ -1,6 +1,8 @@
 # DOCUMENTATION
 #### Swagger API Documentation
-[API DOCS](http://localhost:8080/swagger-ui.html)
+[API DOCS-REMOTE](https://books-1-0.onrender.com/swagger-ui/index.html)
+
+[API DOCS-LOCAL](http://localhost:8080/swagger-ui.html)
 
 [READ ABOUT OPENAPI](https://www.baeldung.com/spring-rest-openapi-documentation)
 
